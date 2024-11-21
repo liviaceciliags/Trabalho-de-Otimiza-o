@@ -27,9 +27,6 @@ Este projeto implementa uma interface interativa em **Streamlit** para resolver 
    - Exibição das tabelas inicial e final do método Simplex.
    - Exibição dos preços-sombra e resultados calculados.
 
-4. **Estilização**:
-   - Interface em tons de azul e cinza para uma experiência visual agradável.
-
 ---
 
 ## Uso
