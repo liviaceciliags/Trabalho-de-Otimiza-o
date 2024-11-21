@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1a73e8"        # Azul principal
+backgroundColor = "#e8effc"     # Azul claro como fundo
+secondaryBackgroundColor = "#f5f8fd"  # Cinza claro como fundo secundário
+textColor = "#1a237e"           # Azul escuro para texto
+font = "sans serif"             # Fonte padrão (pode ajustar se necessário)
