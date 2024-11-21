@@ -41,8 +41,8 @@ Este projeto implementa uma interface interativa em **Streamlit** para resolver 
    - Número de restrições: 2.
    - Coeficientes da função objetivo: **5, 7, 8**.
    - Coeficientes das variáveis para cada restrição:
-     - Restrição 1: **1, 1, 2** com RHS: **1190**.
-     - Restrição 2: **3, 4.5, 1** com RHS: **4000**.
+     - Restrição 1: **1, 1, 2** com LD: **1190**.
+     - Restrição 2: **3, 4.5, 1** com LD: **4000**.
 
 3. Visualize os resultados:
    - Valores das variáveis ótimas: 
@@ -78,8 +78,8 @@ pip install streamlit pulp pandas
    - Número de restrições: **2**.
    - Coeficientes da função objetivo: **5, 7, 8**.
    - Coeficientes das restrições:
-     - Restrição 1: **1, 1, 2** com RHS **1190**.
-     - Restrição 2: **3, 4.5, 1** com RHS **4000**.
+     - Restrição 1: **1, 1, 2** com LD **1190**.
+     - Restrição 2: **3, 4.5, 1** com LD **4000**.
 
 2. Solução exibida:
    - Valores ótimos: `x1 = 0.00`, `x2 = 851.25`, `x3 = 169.38`.
